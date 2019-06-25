@@ -1,0 +1,154 @@
+
+        
+        
+        
+ 
+.maudo
+{
+    background-color: whitesmoke;
+}    
+.desimg
+{   
+    
+    border-radius: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.h1format
+{
+    
+    text-align: center;
+    font-size: 50px
+
+}
+.imgformat
+{
+    padding-left: 150px;
+    width="60";
+    height="200"
+}
+.pformat
+{
+    padding-left: 150px;
+    color :black
+}
+.liformat
+{
+    
+    color :black;
+}
+.ulformat
+{
+    padding-left: 250px;
+    color :black;    
+}
+.h3format
+{
+    color :black
+
+}
+.title1
+{
+    padding-top: auto;
+    padding-right: auto;
+    padding-bottom: auto;
+    padding-left: 50px;
+    /* margin-left: 20px */
+}
+
+
+.title2
+{
+    /* margin-bottom: 100px; */
+    border-bottom: 2px solid #ff0000;
+    padding-top: 200;
+    padding-right: 200;
+    padding-bottom: auto;
+    padding-left: 20;
+
+}
+* {
+    box-sizing: border-box;
+  }
+  /* group paragraph 1*/
+  .nav0
+  {
+    float: left;
+    width: 20%;
+    height: 250px; /* only for demonstration, should be removed */
+    background:bisque;
+    padding: 20px;
+    /* display: inline-block; */
+  }
+  .nav3
+  {
+    float: left;
+    width: 20%;
+    height: 250px; /* only for demonstration, should be removed */
+    background:bisque;
+    padding: 20px;
+    /* display: inline-block; */
+  }
+  .nav1 {
+    float: left;
+    width: 30%;
+    height: 250px; /* only for demonstration, should be removed */
+    background:white;
+    padding: 20px;
+    
+    
+    /* display: inline-block; */
+  }
+
+.nav2 {
+    float: left;
+    width: 30%;
+    height: 250px; /* only for demonstration, should be removed */
+    background:white;
+    padding: 20px;
+    /* display: inline-block; */
+  }
+ /* group paragraph 2*/
+  .padding0
+  {
+    float: left;
+    width: 20%;
+    height: 330px; /* only for demonstration, should be removed */
+    background:bisque;
+    padding: 20px;
+    /* display: inline-block; */
+  }
+  .padding3
+  {
+    float: left;
+    width: 20%;
+    height: 330px; /* only for demonstration, should be removed */
+    background:bisque;
+    padding: 20px;
+    /* display: inline-block; */
+  }
+  .padding1 {
+    float: left;
+    width: 30%;
+    height: 330px; /* only for demonstration, should be removed */
+    background:white;
+    padding: 20px;
+    /* display: inline-block; */
+  }
+.padding2 {
+    float: left;
+    width: 30%;
+    height: 330px; /* only for demonstration, should be removed */
+    background:white;
+    padding: 20px;
+    /* display: inline-block; */
+  }
+  .padding4 {
+    float: left;
+    width: 60%;
+    height: 330px; /* only for demonstration, should be removed */
+    background:white;
+    padding: 20px;
+    /* display: inline-block; */
+  }
