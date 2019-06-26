@@ -7,21 +7,14 @@
 {
     background-color: whitesmoke;
 }    
-.desimg
-{   
-    
-    border-radius: 50%;
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-}
 .h1format
 {
     
     text-align: center;
-    font-size: 50px
+    font-size: 30px
 
 }
+
 .imgformat
 {
     padding-left: 150px;
@@ -30,7 +23,8 @@
 }
 .pformat
 {
-    padding-left: 150px;
+    text-align: center;
+    /* padding-left: 150px; */
     color :black
 }
 .liformat
@@ -50,105 +44,136 @@
 }
 .title1
 {
-    padding-top: auto;
-    padding-right: auto;
-    padding-bottom: auto;
-    padding-left: 50px;
-    /* margin-left: 20px */
-}
-
-
-.title2
-{
-    /* margin-bottom: 100px; */
-    border-bottom: 2px solid #ff0000;
-    padding-top: 200;
-    padding-right: 200;
-    padding-bottom: auto;
-    padding-left: 20;
+    padding-top: 150px;
+    padding-right: 15px;
+    padding-bottom: 150px;
+    padding-left: 150px;
 
 }
-* {
+*{
     box-sizing: border-box;
   }
-  /* group paragraph 1*/
-  .nav0
-  {
+  .nav {
     float: left;
-    width: 20%;
-    height: 250px; /* only for demonstration, should be removed */
-    background:bisque;
-    padding: 20px;
-    /* display: inline-block; */
-  }
-  .nav3
-  {
-    float: left;
-    width: 20%;
-    height: 250px; /* only for demonstration, should be removed */
-    background:bisque;
-    padding: 20px;
-    /* display: inline-block; */
-  }
-  .nav1 {
-    float: left;
-    width: 30%;
-    height: 250px; /* only for demonstration, should be removed */
+    width: 40%;
+    height: 500px; /* only for demonstration, should be removed */
     background:white;
     padding: 20px;
-    
-    
-    /* display: inline-block; */
-  }
 
-.nav2 {
-    float: left;
-    width: 30%;
-    height: 250px; /* only for demonstration, should be removed */
-    background:white;
-    padding: 20px;
-    /* display: inline-block; */
+
   }
- /* group paragraph 2*/
-  .padding0
-  {
+.desimg
+{
+    border-radius: 50%;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+.article {
     float: left;
+    padding: 20px;
+    width: 70%;
+    background-color: blueviolet;
+    height: 300px; /* only for demonstration, should be removed */
+  }
+#box_root
+{
+    width: 100%;
+    height: 100%;
+    background-color: darkgray;
+    
+
+}
+#title_box1
+{
+    width: 100%;
+    height: 250px;
+    background-color: skyblue;
+    display: flex;
+}
+#ad_box1
+{
     width: 20%;
-    height: 330px; /* only for demonstration, should be removed */
-    background:bisque;
-    padding: 20px;
-    /* display: inline-block; */
-  }
-  .padding3
-  {
-    float: left;
-    width: 20%;
-    height: 330px; /* only for demonstration, should be removed */
-    background:bisque;
-    padding: 20px;
-    /* display: inline-block; */
-  }
-  .padding1 {
-    float: left;
-    width: 30%;
-    height: 330px; /* only for demonstration, should be removed */
-    background:white;
-    padding: 20px;
-    /* display: inline-block; */
-  }
-.padding2 {
-    float: left;
-    width: 30%;
-    height: 330px; /* only for demonstration, should be removed */
-    background:white;
-    padding: 20px;
-    /* display: inline-block; */
-  }
-  .padding4 {
-    float: left;
+    height: 100%;
+    background-color: snow;
+   
+
+}
+#title_box1_child2
+{
     width: 60%;
-    height: 330px; /* only for demonstration, should be removed */
-    background:white;
-    padding: 20px;
-    /* display: inline-block; */
-  }
+    height: 210px;
+    background-color: skyblue;
+    
+
+}
+#info_box
+{
+    width: 100%;
+    height: 220px;
+    background-color: darkgray;
+    display: flex;
+}
+#info_box_child1
+{
+    width: 30%;
+    height: 220px;
+    background-color: whitesmoke;
+
+}
+#info_box_child2
+{
+    width: 30%;
+    height: 220px;
+    background-color: whitesmoke;
+
+}
+#info_box_child3
+{
+    width: 30%;
+    height: 220px;
+    background-color: whitesmoke;
+
+}
+#info_box_child4
+{
+    width: 30%;
+    height: 220px;
+    background-color: whitesmoke;
+
+}
+#history_box
+{
+    width: 100%;
+    height: 220px;
+    background-color: lightslategray;
+    display: flex;
+
+}
+#des_his_box
+{   
+   
+    width: 60%;
+    height: 850px;
+    background-color: seashell;
+}
+.formatpara
+{
+    margin-left: 20px;
+}
+.stylelist
+{
+    list-style-type:
+}
+#formatdisplay 
+{
+    display: inline-flex;
+}
+#ad_box2
+{
+    width: 20%;
+    height: 800px;
+    background-color: snow;
+   
+
+}
