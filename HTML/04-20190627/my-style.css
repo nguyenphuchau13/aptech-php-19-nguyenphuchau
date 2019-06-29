@@ -1,0 +1,20 @@
+.text-style
+{
+    text-align: center;
+    padding-top: 10px;
+    color: white;
+}
+.p-style
+{
+    text-align: center;
+    padding-top: 20px;
+    color: white;
+    padding-left: 20%;
+    padding-right: 20%;
+    
+    font-size: 20px
+}
+.b-style {
+    border: 2px solid dimgray;
+    border-radius: 10px;
+  }
