@@ -20,9 +20,25 @@
   }
   
 .f-link:hover,.f-link:active {
-    color: red;
+    color: blue;
   }
  .b-bot
 {
     border-bottom: 3px solid white
+}
+.mgl-style
+{
+    margin-left:10%
+}
+
+.mgt-style
+{
+    margin-top:5%
+}
+.f-p
+{
+    /* margin-left:10%;
+    margin-right:30%; */
+    font-size: 20px;
+    
 }
