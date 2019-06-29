@@ -18,3 +18,7 @@
     border: 2px solid dimgray;
     border-radius: 10px;
   }
+  
+.f-link:active {
+    color: red;
+  }
