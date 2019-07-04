@@ -1,0 +1,44 @@
+.text-style
+{
+    text-align: center;
+    padding-top: 10px;
+    color: white;
+}
+.p-style
+{
+    text-align: center;
+    padding-top: 20px;
+    color: white;
+    padding-left: 20%;
+    padding-right: 20%;
+    
+    font-size: 20px
+}
+.b-style {
+    border: 2px solid dimgray;
+    border-radius: 10px;
+  }
+  
+.f-link:hover,.f-link:active {
+    color: blue;
+  }
+ .b-bot
+{
+    border-bottom: 3px solid white
+}
+.mgl-style
+{
+    margin-left:10%
+}
+
+.mgt-style
+{
+    margin-top:5%
+}
+.f-p
+{
+    /* margin-left:10%;
+    margin-right:30%; */
+    font-size: 20px;
+    
+}
